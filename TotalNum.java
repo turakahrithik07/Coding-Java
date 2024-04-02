@@ -27,6 +27,6 @@ public class TotalNum
         }         
       }
    }
-  System.out.println("There are " + count + " in the array");
+  System.out.println("There are " + count + " values of" + totalNum + " in the array");
   } 
 }
